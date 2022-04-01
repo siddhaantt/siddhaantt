@@ -37,6 +37,15 @@
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/siddhaantt?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
 
+## ⚡ Technologies
+Talk to me about
+- Front-end development using **HTML, CSS, JavaScript, Bootstrap, SASS, JQuery**
+- Backend development using **NodeJS, Express.JS**
+- Database using **SQL**
+- Mobile development using **Android Studio, Kotlin**
+- Making for **Relational Database Management Systems**
+- Robust full-stack system design implementation
+- Solving Data structure and algorithm questions.
 
 ## 🔥 Streak stats
 
