@@ -36,7 +36,7 @@
     <a href="https://github.com/siddhaantt?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/siddhaantt?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
   <a href="https://github.com/siddhaantt/Simple-View-Counter">
-    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/siddhaantt-profile-views"/></a>
+    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=siddhaantt"/></a>
 </p>
 
 
